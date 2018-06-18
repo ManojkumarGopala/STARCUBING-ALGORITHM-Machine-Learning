@@ -1,0 +1,12 @@
+/Applications/CLion.app/Contents/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/Users/manojkumargopala/Sem_2/Machine Learning/Project1/Star_cube_page_block/Star_cube"
+-- start running cmake...
+-- Boost version: 1.65.1
+-- Found the following Boost libraries:
+--   system
+--   filesystem
+-- Boost_INCLUDE_DIRS: /usr/local/include
+-- Boost_LIBRARIES: /usr/local/lib/libboost_system-mt.dylib;/usr/local/lib/libboost_filesystem-mt.dylib
+-- Boost_VERSION: 106501
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/manojkumargopala/Sem_2/Machine Learning/Project1/Star_cube_page_block/Star_cube/cmake-build-debug

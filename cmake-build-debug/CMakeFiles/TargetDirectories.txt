@@ -1,0 +1,4 @@
+/Users/manojkumargopala/Sem_2/Machine Learning/Project1/Star_cube_page_block/Star_cube/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/manojkumargopala/Sem_2/Machine Learning/Project1/Star_cube_page_block/Star_cube/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/manojkumargopala/Sem_2/Machine Learning/Project1/Star_cube_page_block/Star_cube/cmake-build-debug/CMakeFiles/BoostTest.dir
+/Users/manojkumargopala/Sem_2/Machine Learning/Project1/Star_cube_page_block/Star_cube/cmake-build-debug/CMakeFiles/Star_cube.dir
